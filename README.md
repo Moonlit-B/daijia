@@ -2,16 +2,16 @@
 
 乘客端
 
-![cm_order](https://github.com/user-attachments/assets/7003d8ee-0d67-4089-b668-a9fa6f0f6ea7)
-
+![image](https://github.com/user-attachments/assets/3d14416a-1aa0-4de4-bcba-0510b9dcdfa9)
 
 司机端
 
-![dr_phone](https://github.com/user-attachments/assets/8070a39f-31e4-416a-b0ed-d5bcbf7ca317)
+![image](https://github.com/user-attachments/assets/58ef1ac1-caac-408f-94f8-8fa048b288ec)
 
 
 订单详情
 
-![pay](https://github.com/user-attachments/assets/7778733e-4932-4956-bbda-76cf9e390965)
+![image](https://github.com/user-attachments/assets/beac90fa-087b-421f-ab5f-f437f296a81e)
+
 
 
